@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
+![Tidal turbine tea and scone break]({{site.baseurl}}/IMG-20171212-WA0002.jpg)
 
 ### More Information
 
