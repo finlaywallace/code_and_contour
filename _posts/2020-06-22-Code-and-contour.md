@@ -3,9 +3,7 @@ layout: post
 title: Code and Contour
 published: true
 ---
-## Let me introduce myself
-
-Hi, I'm Finlay. 
+Hi, I'm Finlay, please let me introduce myself.
 
 In my professional life I'm a mechanical engineer working in the Scottish marine renewable energy industry, specialising in tidal turbine rotor and blade design. 
 
